@@ -1,5 +1,10 @@
 {
   "catalog_version": 1,
+  "materi": [
+    { "id": "materi_twk", "category": "TWK", "title": "Tes Wawasan Kebangsaan",   "icon": "🇮🇩", "product_id": "com.ultiprep.soalcpns.materi_twk" },
+    { "id": "materi_tiu", "category": "TIU", "title": "Tes Intelegensia Umum",     "icon": "🧠", "product_id": "com.ultiprep.soalcpns.materi_tiu" },
+    { "id": "materi_tkp", "category": "TKP", "title": "Tes Karakteristik Pribadi", "icon": "👤", "product_id": "com.ultiprep.soalcpns.materi_tkp" }
+  ],
   "pakets": [
     {
       "id": "skd_paket1",
