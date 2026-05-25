@@ -1,0 +1,33 @@
+{
+  "manifest_version": 1,
+  "sets": {
+    "skd_p1_s1": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skd_p1_s1.enc", "question_count": 30 },
+    "skd_p1_s2": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skd_p1_s2.enc", "question_count": 30 },
+    "skd_p1_s3": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skd_p1_s3.enc", "question_count": 30 },
+    "skd_p1_s4": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skd_p1_s4.enc", "question_count": 30 },
+    "skd_p1_s5": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skd_p1_s5.enc", "question_count": 30 },
+
+    "skd_p2_s1": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skd_p2_s1.enc", "question_count": 30 },
+    "skd_p2_s2": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skd_p2_s2.enc", "question_count": 30 },
+    "skd_p2_s3": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skd_p2_s3.enc", "question_count": 30 },
+    "skd_p2_s4": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skd_p2_s4.enc", "question_count": 30 },
+    "skd_p2_s5": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skd_p2_s5.enc", "question_count": 30 },
+
+    "skb_guru_s1": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_guru_s1.enc", "question_count": 30 },
+    "skb_guru_s2": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_guru_s2.enc", "question_count": 30 },
+    "skb_guru_s3": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_guru_s3.enc", "question_count": 30 },
+
+    "skb_it_s1": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_it_s1.enc", "question_count": 30 },
+    "skb_it_s2": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_it_s2.enc", "question_count": 30 },
+    "skb_it_s3": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_it_s3.enc", "question_count": 30 },
+
+    "skb_bidan_s1": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_bidan_s1.enc", "question_count": 30 },
+    "skb_bidan_s2": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_bidan_s2.enc", "question_count": 30 },
+    "skb_bidan_s3": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_bidan_s3.enc", "question_count": 30 },
+
+    "skb_dokter_s1": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_dokter_s1.enc", "question_count": 30 },
+    "skb_dokter_s2": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_dokter_s2.enc", "question_count": 30 },
+    "skb_dokter_s3": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/sets/skb_dokter_s3.enc", "question_count": 30 }
+  },
+  "materi": {}
+}
