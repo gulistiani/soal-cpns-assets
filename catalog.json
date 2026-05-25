@@ -1,0 +1,76 @@
+{
+  "catalog_version": 1,
+  "pakets": [
+    {
+      "id": "skd_paket1",
+      "group_name": "SKD",
+      "paket_name": "Paket 1",
+      "display_name": "SKD — Paket 1",
+      "product_id": ""
+    },
+    {
+      "id": "skd_paket2",
+      "group_name": "SKD",
+      "paket_name": "Paket 2",
+      "display_name": "SKD — Paket 2",
+      "product_id": "com.ultiprep.soalcpns.skd_paket2"
+    },
+    {
+      "id": "skb_guru",
+      "group_name": "SKB",
+      "paket_name": "Guru",
+      "display_name": "SKB — Guru / Pendidikan",
+      "product_id": "com.ultiprep.soalcpns.skb_guru"
+    },
+    {
+      "id": "skb_it",
+      "group_name": "SKB",
+      "paket_name": "IT",
+      "display_name": "SKB — IT / Pranata Komputer",
+      "product_id": "com.ultiprep.soalcpns.skb_it"
+    },
+    {
+      "id": "skb_bidan",
+      "group_name": "SKB",
+      "paket_name": "Bidan",
+      "display_name": "SKB — Bidan",
+      "product_id": "com.ultiprep.soalcpns.skb_bidan"
+    },
+    {
+      "id": "skb_dokter",
+      "group_name": "SKB",
+      "paket_name": "Dokter",
+      "display_name": "SKB — Dokter / Tenaga Medis",
+      "product_id": "com.ultiprep.soalcpns.skb_dokter"
+    }
+  ],
+  "sets": [
+    { "id": "skd_p1_s1", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p1_s2", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p1_s3", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p1_s4", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p1_s5", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
+
+    { "id": "skd_p2_s1", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p2_s2", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p2_s3", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p2_s4", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p2_s5", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
+
+    { "id": "skb_guru_s1", "paket_id": "skb_guru", "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skb_guru_s2", "paket_id": "skb_guru", "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skb_guru_s3", "paket_id": "skb_guru", "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" },
+
+    { "id": "skb_it_s1", "paket_id": "skb_it", "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skb_it_s2", "paket_id": "skb_it", "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skb_it_s3", "paket_id": "skb_it", "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" },
+
+    { "id": "skb_bidan_s1", "paket_id": "skb_bidan", "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skb_bidan_s2", "paket_id": "skb_bidan", "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skb_bidan_s3", "paket_id": "skb_bidan", "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" },
+
+    { "id": "skb_dokter_s1", "paket_id": "skb_dokter", "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skb_dokter_s2", "paket_id": "skb_dokter", "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skb_dokter_s3", "paket_id": "skb_dokter", "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" }
+  ]
+}
