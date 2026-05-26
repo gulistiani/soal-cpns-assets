@@ -1,5 +1,5 @@
 {
-  "catalog_version": 4,
+  "catalog_version": 5,
   "materi": [
     { "id": "materi_twk", "category": "TWK", "title": "Tes Wawasan Kebangsaan",   "icon": "🇮🇩", "product_id": "com.ultiprep.soalcpns.materi_twk" },
     { "id": "materi_tiu", "category": "TIU", "title": "Tes Intelegensia Umum",     "icon": "🧠", "product_id": "com.ultiprep.soalcpns.materi_tiu" },
@@ -59,7 +59,6 @@
   "sets": [
     { "id": "skd_p1_s1", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
     { "id": "skd_p1_s2", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
-    { "id": "skd_p1_s3", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
 
     { "id": "skd_p2_s1", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
     { "id": "skd_p2_s2", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
