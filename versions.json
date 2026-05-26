@@ -13,7 +13,7 @@
     "materi_tkp": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tkp.enc" }
   },
   "carousel": {
-    "version": 2,
+    "version": 3,
     "images": [
       { "id": "slide1", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide1.png" },
       { "id": "slide2", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide2.png" },
