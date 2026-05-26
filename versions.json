@@ -13,11 +13,11 @@
     "materi_tkp": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tkp.enc" }
   },
   "carousel": {
-    "version": 1,
+    "version": 2,
     "images": [
-      { "id": "slide1", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide1.jpg" },
-      { "id": "slide2", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide2.jpg" },
-      { "id": "slide3", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide3.jpg" }
+      { "id": "slide1", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide1.png" },
+      { "id": "slide2", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide2.png" },
+      { "id": "slide3", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide3.png" }
     ]
   }
 }
