@@ -1,6 +1,6 @@
 {
   "pakets": {
-    "skd_paket1": { "version": 2, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket1.enc", "question_count": 220 },
+    "skd_paket1": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket1.enc", "question_count": 220 },
     "skd_paket2": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket2.enc", "question_count": 220 },
     "skb_guru":   { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_guru.enc",   "question_count": 90 },
     "skb_it":     { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_it.enc",     "question_count": 90 },
@@ -13,7 +13,7 @@
     "materi_tkp": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tkp.enc" }
   },
   "carousel": {
-    "version": 3,
+    "version": 1,
     "images": [
       { "id": "slide1", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide1.png" },
       { "id": "slide2", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide2.png" },
