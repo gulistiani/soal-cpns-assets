@@ -1,23 +1,55 @@
 {
   "pakets": {
-    "skd_paket1": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket1.enc", "question_count": 220 },
-    "skd_paket2": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket2.enc", "question_count": 220 },
-    "skb_guru":   { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_guru.enc",   "question_count": 90 },
-    "skb_it":     { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_it.enc",     "question_count": 90 },
-    "skb_bidan":  { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_bidan.enc",  "question_count": 90 },
-    "skb_dokter": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_dokter.enc", "question_count": 90 }
+    "skd_paket1": { "version": 2, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket1.enc", "question_count": 220 },
+    "skd_paket2": { "version": 2, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket2.enc", "question_count": 220 },
+    "skb_guru":   { "version": 2, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_guru.enc",   "question_count": 90 },
+    "skb_it":     { "version": 2, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_it.enc",     "question_count": 90 },
+    "skb_bidan":  { "version": 2, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_bidan.enc",  "question_count": 90 },
+    "skb_dokter": { "version": 2, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_dokter.enc", "question_count": 90 }
   },
   "materi": {
-    "materi_twk": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_twk.enc" },
-    "materi_tiu": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tiu.enc" },
-    "materi_tkp": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tkp.enc" }
+    "materi_twk_free":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_twk_free.enc" },
+    "materi_twk_premium": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_twk_premium.enc" },
+    "materi_tiu_free":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tiu_free.enc" },
+    "materi_tiu_premium": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tiu_premium.enc" },
+    "materi_tkp_free":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tkp_free.enc" }
+  },
+  "materi_topics": {
+    "twk_pancasila":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_pancasila.enc" },
+    "twk_uud":          { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_uud.enc" },
+    "twk_lembaga":      { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_lembaga.enc" },
+    "twk_konstitusi":   { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_konstitusi.enc" },
+    "twk_hak":          { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_hak.enc" },
+    "twk_nasionalisme": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_nasionalisme.enc" },
+    "twk_wawasan":      { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_wawasan.enc" },
+    "twk_asn":          { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_asn.enc" },
+    "twk_antikorupsi":  { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_antikorupsi.enc" },
+    "twk_bahasa":       { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_bahasa.enc" },
+    "twk_sejarah":      { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_sejarah.enc" },
+    "tiu_analogi":         { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_analogi.enc" },
+    "tiu_silogisme":       { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_silogisme.enc" },
+    "tiu_analitis":        { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_analitis.enc" },
+    "tiu_berhitung":       { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_berhitung.enc" },
+    "tiu_deret":           { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_deret.enc" },
+    "tiu_perbandingan":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_perbandingan.enc" },
+    "tiu_cerita":          { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_cerita.enc" },
+    "tiu_figural_analogi": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_figural_analogi.enc" },
+    "tiu_figural_seri":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_figural_seri.enc" },
+    "tiu_figural_beda":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_figural_beda.enc" },
+    "tkp_pelayanan":   { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_pelayanan.enc" },
+    "tkp_sosial":      { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_sosial.enc" },
+    "tkp_tik":         { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_tik.enc" },
+    "tkp_jejaring":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_jejaring.enc" },
+    "tkp_integritas":  { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_integritas.enc" },
+    "tkp_semangat":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_semangat.enc" },
+    "tkp_kreativitas": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_kreativitas.enc" }
   },
   "carousel": {
-    "version": 1,
+    "version": 2,
     "images": [
-      { "id": "slide1", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide1.png" },
-      { "id": "slide2", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide2.png" },
-      { "id": "slide3", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide3.png" }
+      { "id": "slide1", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide1.jpg" },
+      { "id": "slide2", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide2.jpg" },
+      { "id": "slide3", "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide3.jpg" }
     ]
   }
 }
