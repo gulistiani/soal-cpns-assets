@@ -7,13 +7,6 @@
     "skb_bidan":  { "version": 2, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_bidan.enc",  "question_count": 90 },
     "skb_dokter": { "version": 2, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_dokter.enc", "question_count": 90 }
   },
-  "materi": {
-    "materi_twk_free":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_twk_free.enc" },
-    "materi_twk_premium": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_twk_premium.enc" },
-    "materi_tiu_free":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tiu_free.enc" },
-    "materi_tiu_premium": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tiu_premium.enc" },
-    "materi_tkp_free":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/materi_tkp_free.enc" }
-  },
   "materi_topics": {
     "twk_pancasila":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_pancasila.enc" },
     "twk_uud":          { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_uud.enc" },
@@ -26,23 +19,21 @@
     "twk_antikorupsi":  { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_antikorupsi.enc" },
     "twk_bahasa":       { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_bahasa.enc" },
     "twk_sejarah":      { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/twk_sejarah.enc" },
+
+    "tiu_sinonim":         { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_sinonim.enc" },
     "tiu_analogi":         { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_analogi.enc" },
     "tiu_silogisme":       { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_silogisme.enc" },
+    "tiu_bacaan":          { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_bacaan.enc" },
     "tiu_analitis":        { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_analitis.enc" },
     "tiu_berhitung":       { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_berhitung.enc" },
+    "tiu_aljabar":         { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_aljabar.enc" },
     "tiu_deret":           { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_deret.enc" },
     "tiu_perbandingan":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_perbandingan.enc" },
-    "tiu_cerita":          { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_cerita.enc" },
+    "tiu_terapan":         { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_terapan.enc" },
+    "tiu_rumus":           { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_rumus.enc" },
     "tiu_figural_analogi": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_figural_analogi.enc" },
-    "tiu_figural_seri":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_figural_seri.enc" },
-    "tiu_figural_beda":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_figural_beda.enc" },
-    "tkp_pelayanan":   { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_pelayanan.enc" },
-    "tkp_sosial":      { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_sosial.enc" },
-    "tkp_tik":         { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_tik.enc" },
-    "tkp_jejaring":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_jejaring.enc" },
-    "tkp_integritas":  { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_integritas.enc" },
-    "tkp_semangat":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_semangat.enc" },
-    "tkp_kreativitas": { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_kreativitas.enc" }
+    "tiu_figural_pola":    { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tiu_figural_pola.enc" },
+    "tkp_all":             { "version": 1, "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/materi/topics/tkp_all.enc" }
   },
   "carousel": {
     "version": 2,
