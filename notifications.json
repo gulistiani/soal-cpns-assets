@@ -1,0 +1,10 @@
+[
+  {
+    "id": "notif_001",
+    "type": "announcement",
+    "title": "Selamat Datang di UltiPrep CPNS!",
+    "body": "Terima kasih telah menggunakan UltiPrep CPNS. Kami akan terus memperbarui soal dan materi untuk membantu persiapan ujian Anda.",
+    "created_at": "2026-06-14T00:00:00Z",
+    "action_type": "none"
+  }
+]
