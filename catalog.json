@@ -1,83 +1,182 @@
 {
-  "catalog_version": 1,
+  "catalog_version": 0,
   "materi": [
-    { "id": "materi_twk_free",    "category": "TWK", "title": "TWK — Free",   "icon": "🇮🇩", "product_id": "" },
-    { "id": "materi_twk_premium", "category": "TWK", "title": "TWK — Premium", "icon": "🇮🇩", "product_id": "com.ultiprep.soalcpns.materi_twk" },
-    { "id": "materi_tiu_free",    "category": "TIU", "title": "TIU — Free",   "icon": "🧠", "product_id": "" },
-    { "id": "materi_tiu_premium", "category": "TIU", "title": "TIU — Premium", "icon": "🧠", "product_id": "com.ultiprep.soalcpns.materi_tiu" },
-    { "id": "materi_tkp_free",    "category": "TKP", "title": "TKP — Free",    "icon": "👤", "product_id": "" }
+    { "id": "materi_twk_free",    "order": 1, "group_name": "SKD", "category": "TWK", "title": "TWK — Free",     "icon": "🇮🇩", "product_id": "",                                 "available": true },
+    { "id": "materi_twk_premium", "order": 2, "group_name": "SKD", "category": "TWK", "title": "TWK — Premium",  "icon": "🇮🇩", "product_id": "com.ultiprep.soalcpns.materi_twk", "available": true },
+    { "id": "materi_tiu_free",    "order": 3, "group_name": "SKD", "category": "TIU", "title": "TIU — Free",     "icon": "🧠",  "product_id": "",                                 "available": true },
+    { "id": "materi_tiu_premium", "order": 4, "group_name": "SKD", "category": "TIU", "title": "TIU — Premium",  "icon": "🧠",  "product_id": "com.ultiprep.soalcpns.materi_tiu", "available": true },
+    { "id": "materi_tkp_free",    "order": 5, "group_name": "SKD", "category": "TKP", "title": "TKP — Free",     "icon": "👤",  "product_id": "",                                 "available": true }
   ],
   "pakets": [
-    {
-      "id": "skd_paket1",
-      "group_name": "SKD",
-      "paket_name": "Paket 1",
-      "display_name": "SKD — Paket 1",
-      "product_id": ""
-    },
-    {
-      "id": "skd_paket2",
-      "group_name": "SKD",
-      "paket_name": "Paket 2",
-      "display_name": "SKD — Paket 2",
-      "product_id": "com.ultiprep.soalcpns.skd_paket2"
-    },
-    {
-      "id": "skb_guru",
-      "group_name": "SKB",
-      "paket_name": "Guru",
-      "display_name": "SKB — Guru / Pendidikan",
-      "product_id": "com.ultiprep.soalcpns.skb_guru"
-    },
-    {
-      "id": "skb_it",
-      "group_name": "SKB",
-      "paket_name": "IT",
-      "display_name": "SKB — IT / Pranata Komputer",
-      "product_id": "com.ultiprep.soalcpns.skb_it"
-    },
-    {
-      "id": "skb_bidan",
-      "group_name": "SKB",
-      "paket_name": "Bidan",
-      "display_name": "SKB — Bidan",
-      "product_id": "com.ultiprep.soalcpns.skb_bidan"
-    },
-    {
-      "id": "skb_dokter",
-      "group_name": "SKB",
-      "paket_name": "Dokter",
-      "display_name": "SKB — Dokter / Tenaga Medis",
-      "product_id": "com.ultiprep.soalcpns.skb_dokter"
-    }
+    { "id": "skd_paket1",          "order": 1,  "group_name": "SKD", "paket_name": "Paket 1",               "display_name": "SKD — Paket 1",                    "product_id": "",                                            "available": true  },
+    { "id": "skd_paket2",          "order": 2,  "group_name": "SKD", "paket_name": "Paket 2",               "display_name": "SKD — Paket 2",                    "product_id": "com.ultiprep.soalcpns.skd_paket2",           "available": true  },
+    { "id": "skd_paket3",          "order": 3,  "group_name": "SKD", "paket_name": "Paket 3",               "display_name": "SKD — Paket 3",                    "product_id": "com.ultiprep.soalcpns.skd_paket3",           "available": false },
+    { "id": "skd_paket4",          "order": 4,  "group_name": "SKD", "paket_name": "Paket 4",               "display_name": "SKD — Paket 4",                    "product_id": "com.ultiprep.soalcpns.skd_paket4",           "available": false },
+    { "id": "skd_paket5",          "order": 5,  "group_name": "SKD", "paket_name": "Paket 5",               "display_name": "SKD — Paket 5",                    "product_id": "com.ultiprep.soalcpns.skd_paket5",           "available": false },
+    { "id": "skd_paket6",          "order": 6,  "group_name": "SKD", "paket_name": "Paket 6",               "display_name": "SKD — Paket 6",                    "product_id": "com.ultiprep.soalcpns.skd_paket6",           "available": false },
+    { "id": "skd_paket7",          "order": 7,  "group_name": "SKD", "paket_name": "Paket 7",               "display_name": "SKD — Paket 7",                    "product_id": "com.ultiprep.soalcpns.skd_paket7",           "available": false },
+    { "id": "skd_paket8",          "order": 8,  "group_name": "SKD", "paket_name": "Paket 8",               "display_name": "SKD — Paket 8",                    "product_id": "com.ultiprep.soalcpns.skd_paket8",           "available": false },
+    { "id": "skd_paket9",          "order": 9,  "group_name": "SKD", "paket_name": "Paket 9",               "display_name": "SKD — Paket 9",                    "product_id": "com.ultiprep.soalcpns.skd_paket9",           "available": false },
+    { "id": "skd_paket10",         "order": 10, "group_name": "SKD", "paket_name": "Paket 10",              "display_name": "SKD — Paket 10",                   "product_id": "com.ultiprep.soalcpns.skd_paket10",          "available": false },
+    { "id": "skd_tiu_kuantitatif", "order": 11, "group_name": "SKD", "paket_name": "Spesial TIU Kuantitatif", "display_name": "SKD — Spesial TIU Kuantitatif", "product_id": "com.ultiprep.soalcpns.skd_tiu_kuantitatif", "available": false },
+    { "id": "skb_guru",            "order": 1,  "group_name": "SKB", "paket_name": "Guru",                  "display_name": "SKB — Guru / Pendidikan",          "product_id": "com.ultiprep.soalcpns.skb_guru",             "available": true  },
+    { "id": "skb_it",              "order": 2,  "group_name": "SKB", "paket_name": "IT",                    "display_name": "SKB — IT / Pranata Komputer",      "product_id": "com.ultiprep.soalcpns.skb_it",               "available": true  },
+    { "id": "skb_bidan",           "order": 3,  "group_name": "SKB", "paket_name": "Bidan",                 "display_name": "SKB — Bidan",                      "product_id": "com.ultiprep.soalcpns.skb_bidan",            "available": true  },
+    { "id": "skb_dokter",          "order": 4,  "group_name": "SKB", "paket_name": "Dokter",                "display_name": "SKB — Dokter / Tenaga Medis",      "product_id": "com.ultiprep.soalcpns.skb_dokter",           "available": true  }
   ],
   "sets": [
-    { "id": "skd_p1_s1", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
-    { "id": "skd_p1_s2", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
-    { "id": "skd_p1_s3", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
-    { "id": "skd_p1_s4", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
-    { "id": "skd_p1_s5", "paket_id": "skd_paket1", "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
+    { "id": "skd_p1_s1",    "order": 1, "paket_id": "skd_paket1",          "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p1_s2",    "order": 2, "paket_id": "skd_paket1",          "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p1_s3",    "order": 3, "paket_id": "skd_paket1",          "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p1_s4",    "order": 4, "paket_id": "skd_paket1",          "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p1_s5",    "order": 5, "paket_id": "skd_paket1",          "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
 
-    { "id": "skd_p2_s1", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
-    { "id": "skd_p2_s2", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
-    { "id": "skd_p2_s3", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
-    { "id": "skd_p2_s4", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
-    { "id": "skd_p2_s5", "paket_id": "skd_paket2", "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
+    { "id": "skd_p2_s1",    "order": 1, "paket_id": "skd_paket2",          "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p2_s2",    "order": 2, "paket_id": "skd_paket2",          "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p2_s3",    "order": 3, "paket_id": "skd_paket2",          "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p2_s4",    "order": 4, "paket_id": "skd_paket2",          "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p2_s5",    "order": 5, "paket_id": "skd_paket2",          "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
 
-    { "id": "skb_guru_s1", "paket_id": "skb_guru", "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
-    { "id": "skb_guru_s2", "paket_id": "skb_guru", "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
-    { "id": "skb_guru_s3", "paket_id": "skb_guru", "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p3_s1",    "order": 1, "paket_id": "skd_paket3",          "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p3_s2",    "order": 2, "paket_id": "skd_paket3",          "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p3_s3",    "order": 3, "paket_id": "skd_paket3",          "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p3_s4",    "order": 4, "paket_id": "skd_paket3",          "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p3_s5",    "order": 5, "paket_id": "skd_paket3",          "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
 
-    { "id": "skb_it_s1", "paket_id": "skb_it", "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
-    { "id": "skb_it_s2", "paket_id": "skb_it", "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
-    { "id": "skb_it_s3", "paket_id": "skb_it", "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p4_s1",    "order": 1, "paket_id": "skd_paket4",          "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p4_s2",    "order": 2, "paket_id": "skd_paket4",          "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p4_s3",    "order": 3, "paket_id": "skd_paket4",          "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p4_s4",    "order": 4, "paket_id": "skd_paket4",          "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p4_s5",    "order": 5, "paket_id": "skd_paket4",          "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
 
-    { "id": "skb_bidan_s1", "paket_id": "skb_bidan", "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
-    { "id": "skb_bidan_s2", "paket_id": "skb_bidan", "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
-    { "id": "skb_bidan_s3", "paket_id": "skb_bidan", "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p5_s1",    "order": 1, "paket_id": "skd_paket5",          "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p5_s2",    "order": 2, "paket_id": "skd_paket5",          "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p5_s3",    "order": 3, "paket_id": "skd_paket5",          "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p5_s4",    "order": 4, "paket_id": "skd_paket5",          "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p5_s5",    "order": 5, "paket_id": "skd_paket5",          "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
 
-    { "id": "skb_dokter_s1", "paket_id": "skb_dokter", "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
-    { "id": "skb_dokter_s2", "paket_id": "skb_dokter", "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
-    { "id": "skb_dokter_s3", "paket_id": "skb_dokter", "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" }
+    { "id": "skd_p6_s1",    "order": 1, "paket_id": "skd_paket6",          "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p6_s2",    "order": 2, "paket_id": "skd_paket6",          "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p6_s3",    "order": 3, "paket_id": "skd_paket6",          "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p6_s4",    "order": 4, "paket_id": "skd_paket6",          "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p6_s5",    "order": 5, "paket_id": "skd_paket6",          "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
+
+    { "id": "skd_p7_s1",    "order": 1, "paket_id": "skd_paket7",          "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p7_s2",    "order": 2, "paket_id": "skd_paket7",          "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p7_s3",    "order": 3, "paket_id": "skd_paket7",          "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p7_s4",    "order": 4, "paket_id": "skd_paket7",          "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p7_s5",    "order": 5, "paket_id": "skd_paket7",          "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
+
+    { "id": "skd_p8_s1",    "order": 1, "paket_id": "skd_paket8",          "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p8_s2",    "order": 2, "paket_id": "skd_paket8",          "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p8_s3",    "order": 3, "paket_id": "skd_paket8",          "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p8_s4",    "order": 4, "paket_id": "skd_paket8",          "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p8_s5",    "order": 5, "paket_id": "skd_paket8",          "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
+
+    { "id": "skd_p9_s1",    "order": 1, "paket_id": "skd_paket9",          "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p9_s2",    "order": 2, "paket_id": "skd_paket9",          "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p9_s3",    "order": 3, "paket_id": "skd_paket9",          "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p9_s4",    "order": 4, "paket_id": "skd_paket9",          "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p9_s5",    "order": 5, "paket_id": "skd_paket9",          "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
+
+    { "id": "skd_p10_s1",   "order": 1, "paket_id": "skd_paket10",         "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_p10_s2",   "order": 2, "paket_id": "skd_paket10",         "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_p10_s3",   "order": 3, "paket_id": "skd_paket10",         "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_p10_s4",   "order": 4, "paket_id": "skd_paket10",         "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_p10_s5",   "order": 5, "paket_id": "skd_paket10",         "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
+
+    { "id": "skd_tiu_k_s1", "order": 1, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skd_tiu_k_s2", "order": 2, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skd_tiu_k_s3", "order": 3, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 3", "display_name": "Set 3" },
+    { "id": "skd_tiu_k_s4", "order": 4, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 4", "display_name": "Set 4" },
+    { "id": "skd_tiu_k_s5", "order": 5, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 5", "display_name": "Set 5" },
+
+    { "id": "skb_guru_s1",   "order": 1, "paket_id": "skb_guru",   "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skb_guru_s2",   "order": 2, "paket_id": "skb_guru",   "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skb_guru_s3",   "order": 3, "paket_id": "skb_guru",   "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" },
+
+    { "id": "skb_it_s1",     "order": 1, "paket_id": "skb_it",     "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skb_it_s2",     "order": 2, "paket_id": "skb_it",     "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skb_it_s3",     "order": 3, "paket_id": "skb_it",     "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" },
+
+    { "id": "skb_bidan_s1",  "order": 1, "paket_id": "skb_bidan",  "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skb_bidan_s2",  "order": 2, "paket_id": "skb_bidan",  "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skb_bidan_s3",  "order": 3, "paket_id": "skb_bidan",  "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" },
+
+    { "id": "skb_dokter_s1", "order": 1, "paket_id": "skb_dokter", "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
+    { "id": "skb_dokter_s2", "order": 2, "paket_id": "skb_dokter", "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
+    { "id": "skb_dokter_s3", "order": 3, "paket_id": "skb_dokter", "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" }
+  ],
+  "materi_topics": [
+    { "id": "twk_01_pancasila",          "materi_id": "materi_twk_free",    "order_index": 1,  "title": "Pancasila & Bhinneka Tunggal Ika" },
+    { "id": "twk_02_uud1945",            "materi_id": "materi_twk_premium", "order_index": 1,  "title": "UUD 1945" },
+    { "id": "twk_03_tatanegara",         "materi_id": "materi_twk_premium", "order_index": 2,  "title": "Sistem Tata Negara" },
+    { "id": "twk_04_demokrasi",          "materi_id": "materi_twk_premium", "order_index": 3,  "title": "Demokrasi" },
+    { "id": "twk_05_hakwajib",           "materi_id": "materi_twk_premium", "order_index": 4,  "title": "Hak dan Kewajiban Warga Negara" },
+    { "id": "twk_06_nasionalisme",       "materi_id": "materi_twk_premium", "order_index": 5,  "title": "Nasionalisme & Bela Negara" },
+    { "id": "twk_07_wawasan",            "materi_id": "materi_twk_premium", "order_index": 6,  "title": "Wawasan Nusantara & Pengetahuan Umum" },
+    { "id": "twk_08_asn",                "materi_id": "materi_twk_premium", "order_index": 7,  "title": "ASN dan Pemerintahan" },
+    { "id": "twk_09_antikorupsi",        "materi_id": "materi_twk_premium", "order_index": 8,  "title": "Anti Korupsi dan KPK" },
+    { "id": "twk_10_bahasa",             "materi_id": "materi_twk_premium", "order_index": 9,  "title": "Bahasa Indonesia" },
+    { "id": "twk_11_sejarah",            "materi_id": "materi_twk_premium", "order_index": 10, "title": "Sejarah" },
+    { "id": "tiu_01_sinonim",            "materi_id": "materi_tiu_free",    "order_index": 1,  "title": "Sinonim & Antonim" },
+    { "id": "tiu_02_analogi",            "materi_id": "materi_tiu_premium", "order_index": 1,  "title": "Analogi Verbal" },
+    { "id": "tiu_03_silogisme",          "materi_id": "materi_tiu_premium", "order_index": 2,  "title": "Silogisme & Logika Verbal" },
+    { "id": "tiu_04_tata_bahasa",        "materi_id": "materi_tiu_premium", "order_index": 3,  "title": "Tata Bahasa Indonesia" },
+    { "id": "tiu_05_aritmatika_aljabar", "materi_id": "materi_tiu_premium", "order_index": 4,  "title": "Aritmatika, Aljabar & Matematika Terapan" },
+    { "id": "tiu_06_deret",              "materi_id": "materi_tiu_premium", "order_index": 5,  "title": "Deret Angka" },
+    { "id": "tkp",                       "materi_id": "materi_tkp_free",    "order_index": 1,  "title": "Materi & Tips TKP" }
+  ],
+  "bundles": [
+    {
+      "id": "skd_bundle",
+      "order": 1,
+      "group_name": "SKD",
+      "product_id": "com.ultiprep.soalcpns.skd_bundle",
+      "display_name": "Bundel Semua SKD",
+      "available": true,
+      "paket_ids": ["skd_paket2","skd_paket3","skd_paket4","skd_paket5","skd_paket6","skd_paket7","skd_paket8","skd_paket9","skd_paket10","skd_tiu_kuantitatif"],
+      "materi_ids": ["materi_twk_premium","materi_tiu_premium"]
+    },
+    {
+      "id": "skb_guru_bundle",
+      "order": 2,
+      "group_name": "SKB",
+      "product_id": "com.ultiprep.soalcpns.skb_guru_bundle",
+      "display_name": "Bundel Guru",
+      "available": false,
+      "paket_ids": ["skb_guru"],
+      "materi_ids": []
+    },
+    {
+      "id": "skb_it_bundle",
+      "order": 3,
+      "group_name": "SKB",
+      "product_id": "com.ultiprep.soalcpns.skb_it_bundle",
+      "display_name": "Bundel IT",
+      "available": false,
+      "paket_ids": ["skb_it"],
+      "materi_ids": []
+    },
+    {
+      "id": "skb_bidan_bundle",
+      "order": 4,
+      "group_name": "SKB",
+      "product_id": "com.ultiprep.soalcpns.skb_bidan_bundle",
+      "display_name": "Bundel Bidan",
+      "available": false,
+      "paket_ids": ["skb_bidan"],
+      "materi_ids": []
+    },
+    {
+      "id": "skb_dokter_bundle",
+      "order": 5,
+      "group_name": "SKB",
+      "product_id": "com.ultiprep.soalcpns.skb_dokter_bundle",
+      "display_name": "Bundel Dokter",
+      "available": false,
+      "paket_ids": ["skb_dokter"],
+      "materi_ids": []
+    }
   ]
 }
