@@ -1,45 +1,5 @@
 {
   "pakets": {
-    "skd_paket1": {
-      "version": 0,
-      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket1.enc"
-    },
-    "skd_paket2": {
-      "version": 0,
-      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket2.enc"
-    },
-    "skd_paket3": {
-      "version": 0,
-      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket3.enc"
-    },
-    "skd_paket4": {
-      "version": 0,
-      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket4.enc"
-    },
-    "skd_paket5": {
-      "version": 0,
-      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket5.enc"
-    },
-    "skd_paket6": {
-      "version": 0,
-      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket6.enc"
-    },
-    "skd_paket7": {
-      "version": 0,
-      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket7.enc"
-    },
-    "skd_paket8": {
-      "version": 0,
-      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket8.enc"
-    },
-    "skd_paket9": {
-      "version": 0,
-      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket9.enc"
-    },
-    "skd_paket10": {
-      "version": 0,
-      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket10.enc"
-    },
     "skd_tiu_kuantitatif": {
       "version": 0,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_tiu_kuantitatif.enc"
