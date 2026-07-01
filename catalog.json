@@ -19,10 +19,10 @@
     { "id": "skd_paket9",          "order": 9,  "group_name": "SKD", "paket_name": "Paket 9",               "display_name": "SKD — Paket 9",                    "product_id": "com.ultiprep.soalcpns.skd_paket9",           "available": true },
     { "id": "skd_paket10",         "order": 10, "group_name": "SKD", "paket_name": "Paket 10",              "display_name": "SKD — Paket 10",                   "product_id": "com.ultiprep.soalcpns.skd_paket10",          "available": true },
     { "id": "skd_tiu_kuantitatif", "order": 11, "group_name": "SKD", "paket_name": "Spesial TIU Kuantitatif", "display_name": "SKD — Spesial TIU Kuantitatif", "product_id": "com.ultiprep.soalcpns.skd_tiu_kuantitatif", "available": false },
-    { "id": "skb_guru",            "order": 1,  "group_name": "SKB", "paket_name": "Guru",                  "display_name": "SKB — Guru / Pendidikan",          "product_id": "com.ultiprep.soalcpns.skb_guru",             "available": true  },
-    { "id": "skb_it",              "order": 2,  "group_name": "SKB", "paket_name": "IT",                    "display_name": "SKB — IT / Pranata Komputer",      "product_id": "com.ultiprep.soalcpns.skb_it",               "available": true  },
-    { "id": "skb_bidan",           "order": 3,  "group_name": "SKB", "paket_name": "Bidan",                 "display_name": "SKB — Bidan",                      "product_id": "com.ultiprep.soalcpns.skb_bidan",            "available": true  },
-    { "id": "skb_dokter",          "order": 4,  "group_name": "SKB", "paket_name": "Dokter",                "display_name": "SKB — Dokter / Tenaga Medis",      "product_id": "com.ultiprep.soalcpns.skb_dokter",           "available": true  }
+    { "id": "skb_guru",            "order": 1,  "group_name": "SKB", "paket_name": "Guru",                  "display_name": "SKB — Guru / Pendidikan",          "product_id": "com.ultiprep.soalcpns.skb_guru",             "available": false  },
+    { "id": "skb_it",              "order": 2,  "group_name": "SKB", "paket_name": "IT",                    "display_name": "SKB — IT / Pranata Komputer",      "product_id": "com.ultiprep.soalcpns.skb_it",               "available": false  },
+    { "id": "skb_bidan",           "order": 3,  "group_name": "SKB", "paket_name": "Bidan",                 "display_name": "SKB — Bidan",                      "product_id": "com.ultiprep.soalcpns.skb_bidan",            "available": false  },
+    { "id": "skb_dokter",          "order": 4,  "group_name": "SKB", "paket_name": "Dokter",                "display_name": "SKB — Dokter / Tenaga Medis",      "product_id": "com.ultiprep.soalcpns.skb_dokter",           "available": false  }
   ],
   "sets": [
     { "id": "skd_p1_s1",    "order": 1, "paket_id": "skd_paket1",          "group_name": "SKD", "set_name": "Set 1", "display_name": "Set 1" },
@@ -135,7 +135,7 @@
       "product_id": "com.ultiprep.soalcpns.skd_bundle",
       "display_name": "Bundel Semua SKD",
       "available": true,
-      "paket_ids": ["skd_paket2","skd_paket3","skd_paket4","skd_paket5","skd_paket6","skd_paket7","skd_paket8","skd_paket9","skd_paket10","skd_tiu_kuantitatif"],
+      "paket_ids": ["skd_paket2","skd_paket3","skd_paket4","skd_paket5","skd_paket6","skd_paket7","skd_paket8","skd_paket9","skd_paket10"],
       "materi_ids": ["materi_twk_premium","materi_tiu_premium"]
     },
     {
