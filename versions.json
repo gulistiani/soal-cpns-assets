@@ -27,6 +27,10 @@
     "skd_p3": {
       "version": 1,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_p3.enc"
+    },
+    "skd_paket2": {
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket2.enc"
     }
   },
   "materi_topics": {
