@@ -136,19 +136,22 @@
     }
   },
   "carousel": {
-    "version": 0,
+    "version": 1,
     "images": [
       {
         "id": "slide1",
-        "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide1.png"
+        "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide1.png",
+        "urlDark": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide1_dark.png"
       },
       {
         "id": "slide2",
-        "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide2.png"
+        "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide2.png",
+        "urlDark": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide2_dark.png"
       },
       {
         "id": "slide3",
-        "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide3.png"
+        "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide3.png",
+        "urlDark": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/carousel/slide3_dark.png"
       }
     ]
   }
