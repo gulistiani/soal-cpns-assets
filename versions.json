@@ -136,7 +136,7 @@
     }
   },
   "carousel": {
-    "version": 1,
+    "version": 2,
     "images": [
       {
         "id": "slide1",
