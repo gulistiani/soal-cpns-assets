@@ -1,7 +1,7 @@
 {
   "pakets": {
     "skd_tiu_kuantitatif": {
-      "version": 0,
+      "version": 1,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_tiu_kuantitatif.enc"
     },
     "skb_guru": {
