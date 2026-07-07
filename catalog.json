@@ -95,7 +95,17 @@
     { "id": "skd_tiu_kuantitatif_s8", "order": 8, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 8", "display_name": "Set 8" },
     { "id": "skd_tiu_kuantitatif_s9", "order": 9, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 9", "display_name": "Set 9" },
     { "id": "skd_tiu_kuantitatif_s10", "order": 10, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 10", "display_name": "Set 10" },
-
+    { "id": "skd_tiu_kuantitatif_s11", "order": 11, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 11", "display_name": "Set 11" },
+    { "id": "skd_tiu_kuantitatif_s12", "order": 12, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 12", "display_name": "Set 12" },
+    { "id": "skd_tiu_kuantitatif_s13", "order": 13, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 13", "display_name": "Set 13" },
+    { "id": "skd_tiu_kuantitatif_s14", "order": 14, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 14", "display_name": "Set 14" },
+    { "id": "skd_tiu_kuantitatif_s15", "order": 15, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 15", "display_name": "Set 15" },
+    { "id": "skd_tiu_kuantitatif_s16", "order": 16, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 16", "display_name": "Set 16" },
+    { "id": "skd_tiu_kuantitatif_s17", "order": 17, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 17", "display_name": "Set 17" },
+    { "id": "skd_tiu_kuantitatif_s18", "order": 18, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 18", "display_name": "Set 18" },
+    { "id": "skd_tiu_kuantitatif_s19", "order": 19, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 19", "display_name": "Set 19" },
+    { "id": "skd_tiu_kuantitatif_s20", "order": 20, "paket_id": "skd_tiu_kuantitatif", "group_name": "SKD", "set_name": "Set 20", "display_name": "Set 20" },
+    
     { "id": "skb_guru_s1",   "order": 1, "paket_id": "skb_guru",   "group_name": "SKB", "set_name": "Set 1", "display_name": "Set 1" },
     { "id": "skb_guru_s2",   "order": 2, "paket_id": "skb_guru",   "group_name": "SKB", "set_name": "Set 2", "display_name": "Set 2" },
     { "id": "skb_guru_s3",   "order": 3, "paket_id": "skb_guru",   "group_name": "SKB", "set_name": "Set 3", "display_name": "Set 3" },
@@ -140,7 +150,7 @@
       "product_id": "com.ultiprep.soalcpns.skd_bundle",
       "display_name": "Bundel Semua SKD",
       "available": true,
-      "paket_ids": ["skd_paket2","skd_paket3","skd_paket4","skd_paket5","skd_paket6","skd_paket7","skd_paket8","skd_paket9","skd_paket10"],
+      "paket_ids": ["skd_paket2","skd_paket3","skd_paket4","skd_paket5","skd_paket6","skd_paket7","skd_paket8","skd_paket9","skd_paket10","skd_tiu_kuantitatif"],
       "materi_ids": ["materi_twk_premium","materi_tiu_premium"]
     },
     {
