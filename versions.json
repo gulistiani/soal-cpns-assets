@@ -1,7 +1,7 @@
 {
   "pakets": {
     "skd_tiu_kuantitatif": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_tiu_kuantitatif.enc"
     },
     "skb_guru": {
@@ -21,43 +21,43 @@
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skb_dokter.enc"
     },
     "skd_paket1": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket1.enc"
     },
     "skd_paket2": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket2.enc"
     },
     "skd_paket3": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket3.enc"
     },
     "skd_paket4": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket4.enc"
     },
     "skd_paket5": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket5.enc"
     },
     "skd_paket6": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket6.enc"
     },
     "skd_paket7": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket7.enc"
     },
     "skd_paket8": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket8.enc"
     },
     "skd_paket9": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket9.enc"
     },
     "skd_paket10": {
-      "version": 5,
+      "version": 6,
       "url": "https://raw.githubusercontent.com/gulistiani/soal-cpns-assets/main/pakets/skd_paket10.enc"
     }
   },
